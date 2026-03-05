@@ -3,12 +3,13 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: *Pedro Henrique Soares Silva*
+- Matricula: 911151
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+! {<img width="703" height="918" alt="image" src="https://github.com/user-attachments/assets/edf5e838-f772-495a-8f75-492ceac5909d" />}
+
 
 
 ## Orientações sobre Linguagem MarkDown
