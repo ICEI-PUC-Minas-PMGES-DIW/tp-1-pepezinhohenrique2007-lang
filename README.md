@@ -8,7 +8,7 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-! {<img width="703" height="918" alt="image" src="https://github.com/user-attachments/assets/edf5e838-f772-495a-8f75-492ceac5909d" />}
+<img width="698" height="409" alt="Screenshot 2026-03-12 144103" src="https://github.com/user-attachments/assets/2e45f133-0b64-47f8-99f9-736f002f1537" />
 
 ## Resultado apresentado no navegador para o arquivo index.html
 
