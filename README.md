@@ -10,6 +10,12 @@ Coloque aqui os seus dados
 
 ! {<img width="703" height="918" alt="image" src="https://github.com/user-attachments/assets/edf5e838-f772-495a-8f75-492ceac5909d" />}
 
+## Resultado apresentado no navegador para o arquivo index.html
+
+<img width="1919" height="928" alt="Screenshot 2026-03-12 144247" src="https://github.com/user-attachments/assets/3e817833-90d9-4b7d-8ea5-334d8f8f8b9c" />
+
+
+
 
 
 ## Orientações sobre Linguagem MarkDown
